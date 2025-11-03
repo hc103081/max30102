@@ -1,0 +1,7 @@
+README.md
+setup.py
+max30102.egg-info/PKG-INFO
+max30102.egg-info/SOURCES.txt
+max30102.egg-info/dependency_links.txt
+max30102.egg-info/requires.txt
+max30102.egg-info/top_level.txt
