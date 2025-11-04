@@ -1,5 +1,9 @@
-README.md
 setup.py
+max30102/__init__.py
+max30102/heartrate_monitor.py
+max30102/hrcalc.py
+max30102/main.py
+max30102/max30102.py
 max30102.egg-info/PKG-INFO
 max30102.egg-info/SOURCES.txt
 max30102.egg-info/dependency_links.txt

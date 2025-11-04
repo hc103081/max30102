@@ -7,7 +7,7 @@ setup(
     author='Chen Hong',
     description='MAX30102 heart rate sensor interface',
     install_requires=[
-        'smbus2',
+        'smbus',
         'numpy',
         'RPi.GPIO'
     ],

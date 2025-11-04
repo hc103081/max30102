@@ -3,7 +3,7 @@ Name: max30102
 Version: 0.1.0
 Summary: MAX30102 heart rate sensor interface
 Author: Chen Hong
-Requires-Dist: smbus2
+Requires-Dist: smbus
 Requires-Dist: numpy
 Requires-Dist: RPi.GPIO
 Dynamic: author
